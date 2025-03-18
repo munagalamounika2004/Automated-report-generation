@@ -25,4 +25,6 @@ The project has a wide range of **applications** in different industries. Busine
 
 In conclusion, this Python-based report generation project demonstrates how automation can streamline data processing, analysis, and document creation. By using well-structured functions, it ensures efficiency, reduces human error, and enhances the readability of insights. The modular design allows for easy customization, making it adaptable to various business and research needs. With minimal modifications, it can be integrated into real-world systems to automate reporting tasks, ultimately saving time and improving productivity. 
 
+OUTPUT:
 
+Automated_Report.pdf](https://github.com/user-attachments/files/19323628/Automated_Report.pdf)
