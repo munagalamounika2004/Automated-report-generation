@@ -27,4 +27,4 @@ In conclusion, this Python-based report generation project demonstrates how auto
 
 OUTPUT:
 
-Automated_Report.pdf](https://github.com/user-attachments/files/19323628/Automated_Report.pdf)
+[Sample_Report.pdf](https://github.com/user-attachments/files/19323663/Sample_Report.pdf)
